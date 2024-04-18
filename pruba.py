@@ -1,2 +1,2 @@
 print ("Hemos construido una caja de madera")
-print("Hola gentes")
+print ("Hola gentes, ¿como estan?")
