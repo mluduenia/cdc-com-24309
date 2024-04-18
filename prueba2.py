@@ -1,0 +1,1 @@
+print ("Hemos pintado una caja de madera")
